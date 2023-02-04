@@ -27,9 +27,10 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+<div style="display: flex; flex-direction: row;">
 <img src="./images/Screenshot1.png"  width="30%" height="30%">
 <img src="./images/Screenshot2.png"  width="30%" height="30%">
-
+</div>
 
 ### Links
 
