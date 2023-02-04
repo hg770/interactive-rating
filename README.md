@@ -27,8 +27,8 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-<img src="./images/screenshot1.png"  width="30%" height="30%">
-<img src="./images/screenshot2.png"  width="30%" height="30%">
+<img src="./images/Screenshot1.png"  width="30%" height="30%">
+<img src="./images/Screenshot2.png"  width="30%" height="30%">
 
 
 ### Links
