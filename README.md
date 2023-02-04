@@ -15,8 +15,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -35,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://hg770.github.io/](https://hg770.github.io/3-interactive-rating-component/rating.html)
+- Solution URL: [https://github.com/hg770/interactive-rating](https://github.com/hg770/interactive-rating)
 - Live Site URL: [https://hg770.github.io](https://hg770.github.io/3-interactive-rating-component/rating.html)
 
 ## My process
